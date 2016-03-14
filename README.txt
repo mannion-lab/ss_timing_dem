@@ -1,4 +1,4 @@
-This contains the demographic information for the Mannion & Whitford schizotypy study.
+This contains the demographic information for the Mannion, Donkin, & Whitford schizotypy study.
 
 'ss_timing_details.xlsx' is the data recorded by the RA. The O-LIFE scores noted here are rough estimates only and were not those used in the final analysis.
 
